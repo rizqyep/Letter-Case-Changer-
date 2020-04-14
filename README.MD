@@ -3,8 +3,8 @@ the last one is based on Alternating Case kata on Codewars
 
 The idea behind turning string into lower and uppercase here is substract or add the value of their ascii value
 for example :
-a = 97
-A = 65
+  a = 97
+  A = 65
 
 as we can see here based on the a and A ASCII value,we could see that the lowercase and uppercase is separated by 32,this will also apply to other letter
 therefore :

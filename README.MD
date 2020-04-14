@@ -1,3 +1,5 @@
+<h1>Python Letter Case Changer</h1>
+
 A program that takes concept of str.upper() and str.lower() method
 the last one is based on Alternating Case kata on Codewars
 
